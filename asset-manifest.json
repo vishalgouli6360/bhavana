@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bhavana/static/css/main.f1a9ba3a.css",
-    "main.js": "/bhavana/static/js/main.49e8f9af.js",
-    "static/js/787.8d8372da.chunk.js": "/bhavana/static/js/787.8d8372da.chunk.js",
-    "index.html": "/bhavana/index.html",
-    "main.f1a9ba3a.css.map": "/bhavana/static/css/main.f1a9ba3a.css.map",
-    "main.49e8f9af.js.map": "/bhavana/static/js/main.49e8f9af.js.map",
-    "787.8d8372da.chunk.js.map": "/bhavana/static/js/787.8d8372da.chunk.js.map"
+    "main.css": "/git123/static/css/main.f1a9ba3a.css",
+    "main.js": "/git123/static/js/main.2de5f8b0.js",
+    "static/js/787.8d8372da.chunk.js": "/git123/static/js/787.8d8372da.chunk.js",
+    "index.html": "/git123/index.html",
+    "main.f1a9ba3a.css.map": "/git123/static/css/main.f1a9ba3a.css.map",
+    "main.2de5f8b0.js.map": "/git123/static/js/main.2de5f8b0.js.map",
+    "787.8d8372da.chunk.js.map": "/git123/static/js/787.8d8372da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1a9ba3a.css",
-    "static/js/main.49e8f9af.js"
+    "static/js/main.2de5f8b0.js"
   ]
 }
